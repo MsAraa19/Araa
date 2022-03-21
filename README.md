@@ -19,12 +19,12 @@
 
 ## MY GITHUB STAT
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AichaSidiya&&show_icons=true&count_private=true&theme=dracula" width=400/> <img alt="Aich's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AichaSidiya&theme=dracula" width=400/>
+<img src="https://github-readme-stats.vercel.app/api?username=MsAraa19&&show_icons=true&count_private=true&theme=dracula" width=400/> <img alt="Araa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MsAraa19&theme=dracula" width=400/>
 
 </p>
 
 <p align="center">
-<a href="https://github.com/AichaSidiya/github-readme-activity-graph"><img alt="Aicha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AichaSidiya&theme=dracula" width=850/></a>
+<a href="https://github.com/MsAraa19/github-readme-activity-graph"><img alt="Araa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MsAraa19&theme=dracula" width=850/></a>
 </p>
 
 
