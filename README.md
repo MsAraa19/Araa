@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-:raising_hand: I'm a sophomore computer science, working on making programing fun to learn.
+:raising_hand: I'm a freshman computer science, working on learning programing and helping to teach it.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🎓 College student
 
@@ -10,7 +10,7 @@
  
 - 🤔 Looking for open source to contribute
 
-- 📫 How to reach me aichasidiya@gmail.com
+- 📫 How to reach me almarhabiaraa@gmail.com
 
 - 🧪Interested in bioinformatics
 
