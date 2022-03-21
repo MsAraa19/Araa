@@ -30,7 +30,7 @@
 
 ## TOP PROGRAMING LANGUAGES
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AichaSidiya&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MsAraa19&theme=dracula)
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
